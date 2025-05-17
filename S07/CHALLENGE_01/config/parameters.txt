@@ -1,0 +1,3 @@
+Cycle Time: 55.8 seconds
+Line Speed: 1.2 m/s
+Number of Stations: 8

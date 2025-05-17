@@ -1,0 +1,7 @@
+[INFO] Test suite started.
+[WARNING] Module X is using deprecated API.
+[ERROR] NullPointerException at line 42.
+[INFO] Test case #5 passed.
+[ERROR] Timeout while connecting to database.
+[WARNING] Resource Y was not properly closed.
+[INFO] All tests completed.
